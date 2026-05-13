@@ -32,22 +32,35 @@ It’s perfect for learning **HTML, CSS, and JavaScript** fundamentals while bui
 
 ## 🔄 Flowchart
 Here’s the workflow of the app:
+<img width="300" height="400" alt="Copilot_20260514_021035" src="https://github.com/user-attachments/assets/37eb84de-23fb-4605-a183-6d3d0d9ac157" />
 
 
 
-*(Replace with your own To‑Do List flowchart image if desired.)*
+
 
 ---
 
 ## 📊 Result and Analysis
 Screenshots showing the app in action:
+🏠 **Home Page**:
 
-![Result 1](images/result1.png)  
-![Result 2](images/result2.png)  
-![Result 3](images/result3.png)  
-![Result 4](images/result4.png)
+<img width="300" height="300" alt="Screenshot 2026-05-14 020243" src="https://github.com/user-attachments/assets/80c89a11-8f03-47ee-adcf-6aa22666de49" />
 
-*(Add your actual screenshots in the `images/` folder.)*
+
+✍️ **All Tasks**: 
+
+<img width="300" height="300" alt="Screenshot 2026-05-14 020343" src="https://github.com/user-attachments/assets/e9963971-0140-4b7f-a2c4-648565b90160" />
+
+
+💪 **Active Tasks**:  
+
+<img width="300" height="300" alt="Screenshot 2026-05-14 020353" src="https://github.com/user-attachments/assets/a4610e37-d8c5-49e2-988f-90ce003ba19b" />
+
+
+👍 **Completed Tasks**: 
+
+<img width="300" height="300" alt="Screenshot 2026-05-14 021244" src="https://github.com/user-attachments/assets/c13e54fc-446e-442b-96b3-a3b1789d43f4" />
+
 
 ---
 
